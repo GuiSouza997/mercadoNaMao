@@ -1,0 +1,19 @@
+.containerLogin {
+  background-color: #edebeb;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #edebeb;
+  border-radius: 5px;
+}
+
+.btnLogar{
+  background-color: #40ba7d;
+  border: 1px solid #40ba7d;
+}
+
+.btnLogar:hover{
+  background-color: white;
+  color: #40ba7d;
+  border: 1px solid #40ba7d;
+}
